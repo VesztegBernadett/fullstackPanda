@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "Vue.volar",
+    "bradlc.vscode-tailwindcss",
+    "usernamehw.errorlens",
+    "dbaeumer.vscode-eslint",
+  ]
+}
