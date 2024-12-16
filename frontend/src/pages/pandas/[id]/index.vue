@@ -1,7 +1,6 @@
 <template>
   <BaseLayout>
-    <div></div>
-    <div></div>
+    <h1>Asd</h1>
   </BaseLayout>
 </template>
 
@@ -9,8 +8,13 @@
 import BaseLayout from '@layouts/BaseLayout.vue'
 
 export default {
-  components: {
-    BaseLayout
-  }
+    components: {
+        BaseLayout
+    }
 }
 </script>
+<route lang="json">
+{
+    "name":"panda"
+}
+</route>
